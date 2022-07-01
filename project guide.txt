@@ -1,0 +1,15 @@
+Dependencies : {
+express
+mongoose
+jasonWebToken
+Nodemailer //(please update the nodemailer component with sender's email id)
+bcryptjs
+express-validator
+}
+
+To use the assignment first signup. then start adding categories.
+In each category add products. 
+Both categories and products can be deleted seperately.
+Deleting a category denies the possibility of finding the products in that category.
+
+ 
